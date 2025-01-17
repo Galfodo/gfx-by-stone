@@ -2,7 +2,7 @@
 
 Old-skool graphics I made for the Commodore 64 computer in the previous millenium. 
 Most of these were created in Koala Painter using a joystick to place every single pixel. 
-They appear in order of csdb release ID, which is most probably not the order in which they were created.
+They appear in various demos and are here ordered by csdb release ID, which is most probably not the order in which they were created.
 
 ## The Troopers - "Christmas '87' : https://csdb.dk/release/?id=4732
 
