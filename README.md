@@ -57,15 +57,15 @@ MAGNETIC - Multicolor char logo with animated rasterbars
 
 TROOPERS - Multicolor bitmap logo
 
-![TROOPERS logo](troopers-magnetic-troopers-mc-logo.png)
+![TROOPERS logo 2](troopers-magnetic-troopers-mc-logo.png)
 
 ## The Troopers "X-Press" : https://csdb.dk/release/?id=24460
 
 TROOPERS - Hires chars with animated rasterbars
 
-![TROOPERS logo](troopers-xpress-troopers-hires-logo.png)
+![TROOPERS logo 3](troopers-xpress-troopers-hires-logo.png)
 
 TROOPERS - Multicolor bitmap
 
-![TROOPERS logo](troopers-xpress-troopers-logo.png)
+![TROOPERS logo 4](troopers-xpress-troopers-logo.png)
 
