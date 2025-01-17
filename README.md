@@ -64,7 +64,7 @@ _This was pixeled after a cartoon by Tommy Sydsæter from the Norwegian "Pyton" 
 
 ## The Troopers - "The Blue Touch" : https://csdb.dk/release/?id=85966
 
-**STARS** - Multicolor sideborder logo (stripped)
+**STARS** (stripped) - Multicolor sideborder logo
 
 ![STARS logo](troopers-blue_touch-STARS-mc-sideborder-logo.png)
 
