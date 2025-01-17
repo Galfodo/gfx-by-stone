@@ -1,6 +1,8 @@
 # gfx-by-stone
 
-Old-skool graphics I made for the Commodore 64 computer in the previous millenium. Most of these were created in Koala Painter using a joystick to place every single pixel. 
+Old-skool graphics I made for the Commodore 64 computer in the previous millenium. 
+Most of these were created in Koala Painter using a joystick to place every single pixel. 
+They appear in order of csdb release ID, which is most probably not the order in which they were created.
 
 ## The Troopers - "Christmas '87' : https://csdb.dk/release/?id=4732
 
@@ -27,16 +29,36 @@ _This was pixeled after a cartoon by Tommy Sydsæter from the Norwegian "Pyton" 
 ![Dølle Døck](troopers-d0lle_d0ck-D0LLE_D0CK-mc-fullscreen.png)
 
 
+## The Troopers "X-Press" : https://csdb.dk/release/?id=24460
+
+TROOPERS - Hires chars with animated rasterbars
+
+![TROOPERS logo 3](troopers-xpress-TROOPERS-hires-logo.png)
+
+TROOPERS - Multicolor bitmap
+
 ## The Troopers - "Destination" : https://csdb.dk/release/?id=31790
 
 TROOPERS - Multicolor sprite logo
 
-![TROOPERS logo](troopers-destination-troopers-sprite-logo.png)
+![TROOPERS logo](troopers-destination-TROOPERS-sprite-logo.png)
 
 STARS - Multicolor sprite logo
 
 ![STARS logo](troopers-destination-STARS-sprite-logo.png)
 
+
+## The Troopers "Magnetic" : https://csdb.dk/release/index.php?id=32621
+
+MAGNETIC - Multicolor char logo with animated rasterbars 
+
+![MAGNETIC logo](troopers-magnetic-MAGNETIC-mc-logo.png)
+
+TROOPERS - Multicolor bitmap logo
+
+![TROOPERS logo 2](troopers-magnetic-TROOPERS-mc-logo.png)
+
+![TROOPERS logo 4](troopers-xpress-TROOPERS-logo.png)
 
 ## The Troopers - "The Blue Touch" : https://csdb.dk/release/?id=85966
 
@@ -49,23 +71,4 @@ STARS - Multicolor sideborder logo (full)
 ![STARS logo (full)](troopers-blue_touch-STARS-mc-sideborder-logo-2.png)
 
 
-## The Troopers "Magnetic" : https://csdb.dk/release/index.php?id=32621
-
-MAGNETIC - Multicolor char logo with animated rasterbars 
-
-![MAGNETIC logo](troopers-magnetic-MAGNETIC-mc-logo.png)
-
-TROOPERS - Multicolor bitmap logo
-
-![TROOPERS logo 2](troopers-magnetic-troopers-mc-logo.png)
-
-## The Troopers "X-Press" : https://csdb.dk/release/?id=24460
-
-TROOPERS - Hires chars with animated rasterbars
-
-![TROOPERS logo 3](troopers-xpress-troopers-hires-logo.png)
-
-TROOPERS - Multicolor bitmap
-
-![TROOPERS logo 4](troopers-xpress-troopers-logo.png)
 
