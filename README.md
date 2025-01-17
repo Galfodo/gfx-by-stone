@@ -6,23 +6,23 @@ They appear in order of csdb release ID, which is most probably not the order in
 
 ## The Troopers - "Christmas '87' : https://csdb.dk/release/?id=4732
 
-Dølle's Christmas - Multicolor bitmap
+**Dølle's Christmas** - Multicolor bitmap
 
 _This was pixeled after a cartoon by Tommy Sydsæter from the Norwegian "Pyton" magazine._
 
-![Dælle's Christmas](troopers-christmas_87-D0LLE'S_CHRISTMAS-mc-fullscreen.png)
+![Dølle's Christmas](troopers-christmas_87-D0LLE'S_CHRISTMAS-mc-fullscreen.png)
 
 
 ## The Troopers - "Stella Polaris" : https://csdb.dk/release/?id=4734
 
-Stella Polaris - Multicolor all-border logo
+**Stella Polaris** - Multicolor logo with rasterbars
 
 ![STELLA POLARIS](troopers-stella_polaris-STELLA_POLARIS-mc-allborder.png)
 
 
 ## The Troopers "Dølle Døck" : https://csdb.dk/release/?id=24458
 
-Dølle Døck - Multicolor bitmap
+**Dølle Døck** - Multicolor bitmap
 
 _This was pixeled after a cartoon by Tommy Sydsæter from the Norwegian "Pyton" magazine._
 
@@ -31,42 +31,44 @@ _This was pixeled after a cartoon by Tommy Sydsæter from the Norwegian "Pyton" 
 
 ## The Troopers "X-Press" : https://csdb.dk/release/?id=24460
 
-TROOPERS - Hires chars with animated rasterbars
+**TROOPERS** - Hires chars with animated rasterbars
 
 ![TROOPERS logo 3](troopers-xpress-TROOPERS-hires-logo.png)
 
-TROOPERS - Multicolor bitmap
+**TROOPERS** - Multicolor bitmap
+
+![TROOPERS logo 4](troopers-xpress-TROOPERS-logo.png)
+
 
 ## The Troopers - "Destination" : https://csdb.dk/release/?id=31790
 
-TROOPERS - Multicolor sprite logo
+**TROOPERS** - Multicolor sprite logo
 
 ![TROOPERS logo](troopers-destination-TROOPERS-sprite-logo.png)
 
-STARS - Multicolor sprite logo
+**STARS** - Multicolor sprite logo
 
 ![STARS logo](troopers-destination-STARS-sprite-logo.png)
 
 
 ## The Troopers "Magnetic" : https://csdb.dk/release/index.php?id=32621
 
-MAGNETIC - Multicolor char logo with animated rasterbars 
+**MAGNETIC** - Multicolor char logo with animated rasterbars 
 
 ![MAGNETIC logo](troopers-magnetic-MAGNETIC-mc-logo.png)
 
-TROOPERS - Multicolor bitmap logo
+**TROOPERS** - Multicolor bitmap logo
 
 ![TROOPERS logo 2](troopers-magnetic-TROOPERS-mc-logo.png)
 
-![TROOPERS logo 4](troopers-xpress-TROOPERS-logo.png)
 
 ## The Troopers - "The Blue Touch" : https://csdb.dk/release/?id=85966
 
-STARS - Multicolor sideborder logo (stripped)
+**STARS** - Multicolor sideborder logo (stripped)
 
 ![STARS logo](troopers-blue_touch-STARS-mc-sideborder-logo.png)
 
-STARS - Multicolor sideborder logo (full)
+**STARS** (full) - Multicolor sideborder logo
 
 ![STARS logo (full)](troopers-blue_touch-STARS-mc-sideborder-logo-2.png)
 
