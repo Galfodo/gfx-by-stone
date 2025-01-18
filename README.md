@@ -15,7 +15,7 @@ _This was pixeled after a cartoon by Tommy Sydsæter from the Norwegian "Pyton" 
 
 ## The Troopers - "Stella Polaris" : https://csdb.dk/release/?id=4734
 
-**Stella Polaris** - Multicolor logo with rasterbars
+**Stella Polaris** - Multicolor with rasterbars
 
 ![STELLA POLARIS](troopers-stella_polaris-STELLA_POLARIS-mc-allborder.png)
 
@@ -36,6 +36,8 @@ _This was pixeled after a cartoon by Tommy Sydsæter from the Norwegian "Pyton" 
 ![TROOPERS logo 3](troopers-xpress-TROOPERS-hires-logo.png)
 
 **TROOPERS** - Multicolor bitmap
+
+_This was inspired by to logo for the game "Dropzone" by the legendary Archer MacLean, which itself was heavily inspired by the classic arcade game "Defender"_
 
 ![TROOPERS logo 4](troopers-xpress-TROOPERS-logo.png)
 
@@ -58,6 +60,8 @@ _This was pixeled after a cartoon by Tommy Sydsæter from the Norwegian "Pyton" 
 ![MAGNETIC logo](troopers-magnetic-MAGNETIC-mc-logo.png)
 
 **TROOPERS** - Multicolor bitmap logo
+
+_This was inspired by to logo for the game "Dropzone" by the legendary Archer MacLean, which itself was heavily inspired by the classic arcade game "Defender"_
 
 ![TROOPERS logo 2](troopers-magnetic-TROOPERS-mc-logo.png)
 
