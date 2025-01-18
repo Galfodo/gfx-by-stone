@@ -4,7 +4,7 @@ Old-skool graphics I made for the Commodore 64 computer in the previous milleniu
 Most of these were created in Koala Painter using a joystick to place every single pixel. 
 They appear in various demos and are here ordered by csdb release ID, which is most probably not the order in which they were created.
 
-## The Troopers - "Christmas '87' : https://csdb.dk/release/?id=4732
+## The Troopers - [Christmas '87](https://csdb.dk/release/?id=4732)
 
 **Dølle's Christmas** - Multicolor bitmap
 
@@ -13,14 +13,14 @@ _This was pixeled after a cartoon by Tommy Sydsæter from the Norwegian "Pyton" 
 ![Dølle's Christmas](troopers-christmas_87-D0LLE'S_CHRISTMAS-mc-fullscreen.png)
 
 
-## The Troopers - "Stella Polaris" : https://csdb.dk/release/?id=4734
+## The Troopers - [Stella Polaris](https://csdb.dk/release/?id=4734)
 
 **Stella Polaris** - Multicolor with rasterbars
 
 ![STELLA POLARIS](troopers-stella_polaris-STELLA_POLARIS-mc-allborder.png)
 
 
-## The Troopers "Dølle Døck" : https://csdb.dk/release/?id=24458
+## The Troopers - [Dølle Døck](https://csdb.dk/release/?id=24458)
 
 **Dølle Døck** - Multicolor bitmap
 
@@ -29,7 +29,7 @@ _This was pixeled after a cartoon by Tommy Sydsæter from the Norwegian "Pyton" 
 ![Dølle Døck](troopers-d0lle_d0ck-D0LLE_D0CK-mc-fullscreen.png)
 
 
-## The Troopers "X-Press" : https://csdb.dk/release/?id=24460
+## The Troopers - [X-Press](https://csdb.dk/release/?id=24460)
 
 **TROOPERS** - Hires chars with animated rasterbars
 
@@ -42,7 +42,7 @@ _This was inspired by to logo for the game "Dropzone" by the legendary Archer Ma
 ![TROOPERS logo 4](troopers-xpress-TROOPERS-logo.png)
 
 
-## The Troopers - "Destination" : https://csdb.dk/release/?id=31790
+## The Troopers - [Destination](https://csdb.dk/release/?id=31790)
 
 **TROOPERS** - Multicolor sprite logo
 
@@ -53,7 +53,7 @@ _This was inspired by to logo for the game "Dropzone" by the legendary Archer Ma
 ![STARS logo](troopers-destination-STARS-sprite-logo.png)
 
 
-## The Troopers "Magnetic" : https://csdb.dk/release/index.php?id=32621
+## The Troopers - [Magnetic](https://csdb.dk/release/index.php?id=32621)
 
 **MAGNETIC** - Multicolor char logo with animated rasterbars 
 
@@ -66,7 +66,7 @@ _This was inspired by to logo for the game "Dropzone" by the legendary Archer Ma
 ![TROOPERS logo 2](troopers-magnetic-TROOPERS-mc-logo.png)
 
 
-## The Troopers - "The Blue Touch" : https://csdb.dk/release/?id=85966
+## The Troopers - [The Blue Touch](https://csdb.dk/release/?id=85966)
 
 **STARS** (stripped) - Multicolor sideborder logo
 
