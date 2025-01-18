@@ -29,7 +29,7 @@ _This was pixeled after a cartoon by Tommy Sydsæter from the Norwegian "Pyton" 
 ![Dølle Døck](troopers-d0lle_d0ck-D0LLE_D0CK-mc-fullscreen.png)
 
 
-## The Troopers - [X-Press](https://csdb.dk/release/?id=24460)
+## The Troopers - [Troopers X-press](https://csdb.dk/release/?id=24460)
 
 **TROOPERS** - Hires chars with animated rasterbars
 
